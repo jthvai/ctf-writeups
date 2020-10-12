@@ -1,25 +1,25 @@
 .
-├── ASD-ANU Co-Lab CTF Coaching
-│   └── 2020-09-23 ANU Networking Challenges.md
+├── ASD-ANU_Co-Lab_CTF_Coaching
+│   └── 2020-09-23_ANU_Networking_Challenges.md
 └── Events
     └── 2020
-        ├── 09 ASD-ANU Co-Lab CTF
+        ├── 09_ASD-ANU_Co-Lab_CTF
         │   ├── Cryptography
-        │   │   └── Fun with Primes.md
-        │   └── Network Analysis
-        │       └── Name that Machine.md
-        └── 09 DownUnderCTF
+        │   │   └── Fun_with_Primes.md
+        │   └── Network_Analysis
+        │       └── Name_that_Machine.md
+        └── 09_DownUnderCTF
             ├── crypto
             │   └── rot-i.md
             ├── misc
-            │   ├── 16 Home Runs.md
+            │   ├── 16_Home_Runs.md
             │   ├── Addition.md
             │   ├── Discord.md
-            │   ├── In a pickle.md
-            │   ├── Pretty Good Pitfall.md
+            │   ├── In_a_pickle.md
+            │   ├── Pretty_Good_Pitfall.md
             │   └── Twitter.md
             ├── osint
-            │   └── Bad man.md
+            │   └── Bad_man.md
             ├── rev
             │   └── formatting.md
             ├── survey

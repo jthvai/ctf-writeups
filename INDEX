@@ -1,0 +1,28 @@
+.
+└── Events
+    └── 2020
+        ├── 09 ASD-ANU Co-Lab CTF
+        │   ├── Cryptography
+        │   │   └── Fun with Primes.md
+        │   └── Network Analysis
+        │       └── Name that Machine.md
+        └── 09 DownUnderCTF
+            ├── crypto
+            │   └── rot-i.md
+            ├── misc
+            │   ├── 16 Home Runs.md
+            │   ├── Addition.md
+            │   ├── Discord.md
+            │   ├── In a pickle.md
+            │   ├── Pretty Good Pitfall.md
+            │   └── Twitter.md
+            ├── osint
+            │   └── Bad man.md
+            ├── rev
+            │   └── formatting.md
+            ├── survey
+            │   └── Survey.md
+            └── web
+                └── Leggos.md
+
+12 directories, 13 files

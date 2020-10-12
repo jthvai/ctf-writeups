@@ -2,7 +2,7 @@
 
 Wed, 23 Sept. 2020 - Wed, 07 Oct. 2020
 
-_Solved on 05 Sept. 2020._
+_Solved on 05 Oct. 2020._
 
 ## Challenge 1: Network Ports
 
@@ -123,10 +123,6 @@ Download the PNG queried above.
 $ curl -o ayyyy.png http://13.211.45.103:80/ayyyy
 ```
 
-![Downloaded image, displaying the flag in rainbow text.](.assets/2020-09-23_ANU_Networking_Challenges-1.png)
-
-```txt
-KIWICON-CTF[C87C171906D37FB6]
-```
+![Downloaded image, displaying KIWICON-CTF[C87C171906D37FB6] in rainbow text.](.assets/2020-09-23_ANU_Networking_Challenges-1.png)
 
 <!-- markdownlint-disable-file commands-show-output no-duplicate-heading -->

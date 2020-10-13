@@ -1,30 +1,34 @@
 .
 ├── ASD-ANU_Co-Lab_CTF_Coaching
 │   └── 2020-09-23_ANU_Networking_Challenges.md
-└── Events
-    └── 2020
-        ├── 09_ASD-ANU_Co-Lab_CTF
-        │   ├── Cryptography
-        │   │   └── Fun_with_Primes.md
-        │   └── Network_Analysis
-        │       └── Name_that_Machine.md
-        └── 09_DownUnderCTF
-            ├── crypto
-            │   └── rot-i.md
-            ├── misc
-            │   ├── 16_Home_Runs.md
-            │   ├── Addition.md
-            │   ├── Discord.md
-            │   ├── In_a_pickle.md
-            │   ├── Pretty_Good_Pitfall.md
-            │   └── Twitter.md
-            ├── osint
-            │   └── Bad_man.md
-            ├── rev
-            │   └── formatting.md
-            ├── survey
-            │   └── Survey.md
-            └── web
-                └── Leggos.md
+├── Events
+│   └── 2020
+│       ├── 09_ASD-ANU_Co-Lab_CTF
+│       │   ├── Cryptography
+│       │   │   └── Fun_with_Primes.md
+│       │   └── Network_Analysis
+│       │       └── Name_that_Machine.md
+│       └── 09_DownUnderCTF
+│           ├── crypto
+│           │   └── rot-i.md
+│           ├── misc
+│           │   ├── 16_Home_Runs.md
+│           │   ├── Addition.md
+│           │   ├── Discord.md
+│           │   ├── In_a_pickle.md
+│           │   ├── Pretty_Good_Pitfall.md
+│           │   └── Twitter.md
+│           ├── osint
+│           │   └── Bad_man.md
+│           ├── rev
+│           │   └── formatting.md
+│           ├── survey
+│           │   └── Survey.md
+│           └── web
+│               └── Leggos.md
+└── SecTalks
+    └── Sydney
+        └── 2020-10_0x42
+            └── Crack_Me_Level_0.md
 
-13 directories, 14 files
+16 directories, 15 files

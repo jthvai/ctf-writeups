@@ -4,13 +4,11 @@ _Solved on 18 Sept. 2020._
 
 ## Statement
 
-<!-- markdownlint-disable no-bare-urls -->
 > I <3 Pasta! I won't tell you what my special secret sauce is though!
 >
-> https://chal.duc.tf:30101
+> <https://chal.duc.tf:30101>
 >
 > Author: Crem
-<!-- markdownlint-enable no-bare-urls -->
 
 ## Solution
 

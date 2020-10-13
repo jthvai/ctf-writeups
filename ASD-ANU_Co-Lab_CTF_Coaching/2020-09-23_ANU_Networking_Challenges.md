@@ -120,9 +120,7 @@ Open the file in [WireShark](https://www.wireshark.org/), and sort by protocol.
 Download the PNG queried above.
 
 ```shell
-$ curl -o ayyyy.png http://13.211.45.103:80/ayyyy
+curl -o ayyyy.png http://13.211.45.103:80/ayyyy
 ```
 
 ![Downloaded image, displaying KIWICON-CTF[C87C171906D37FB6] in rainbow text.](.assets/2020-09-23_ANU_Networking_Challenges-1.png)
-
-<!-- markdownlint-disable-file commands-show-output no-duplicate-heading -->

@@ -2,7 +2,7 @@
 
 _([Website](https://downunderctf.com/), [CTFTime](https://ctftime.org/event/1084), [Event Statistics](https://downunderctf.com/blog/2020/ctf-statistics/))_
 
-Fri, 18 Sept. 2020, 19:00 AEST - Sun, 20 Sept. 2020, 19:00 AEST
+Fri, 18 Sep. 2020, 19:00 AEST - Sun, 20 Sep. 2020, 19:00 AEST
 
 |             | Statistic
 | ---         | ---

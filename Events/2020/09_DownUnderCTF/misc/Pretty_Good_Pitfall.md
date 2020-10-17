@@ -1,6 +1,6 @@
 # Pretty Good Pitfall (easy, 200pt)
 
-_Solved on 19 Sept. 2020 (Live)._
+_Solved on 19 Sep. 2020 (Live)._
 
 ## Statement
 

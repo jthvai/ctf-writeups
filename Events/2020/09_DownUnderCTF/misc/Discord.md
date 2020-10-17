@@ -1,6 +1,6 @@
 # Discord (sanity-check, 10pt)
 
-_Solved on 18 Sept. 2020 (Live)._
+_Solved on 18 Sep. 2020 (Live)._
 
 ## Statement
 

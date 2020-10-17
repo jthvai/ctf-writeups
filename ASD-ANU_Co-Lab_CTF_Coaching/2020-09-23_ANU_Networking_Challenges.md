@@ -1,8 +1,8 @@
 # ANU Networking Challenges
 
-Wed, 23 Sept. 2020 - Wed, 07 Oct. 2020
+Wed, 23 Sep. 2020 - Wed, 7 Oct. 2020
 
-_Solved on 05 Oct. 2020._
+_Solved on 5 Oct. 2020._
 
 ## Challenge 1: Network Ports
 

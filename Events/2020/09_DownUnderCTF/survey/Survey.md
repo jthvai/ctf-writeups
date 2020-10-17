@@ -1,6 +1,6 @@
 # Survey (10pt)
 
-_Solved on 20 Sept. 2020 (Live)._
+_Solved on 20 Sep. 2020 (Live)._
 
 ## Statement
 

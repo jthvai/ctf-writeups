@@ -1,6 +1,6 @@
 # Fun with Primes (5pt)
 
-_Solved on 09 Sept. 2020 (Live)._
+_Solved on 9 Sep. 2020 (Live)._
 
 ## Statement
 

@@ -2,7 +2,7 @@
 
 _([Website](https://cecs.anu.edu.au/events/capture-flag-co-lab"))_
 
-Wed, 09 Sept. 2020, 09:00 AEST - Wed, 09 Sept. 2020, 17:00 AEST
+Wed, 9 Sep. 2020, 09:00 AEST - Wed, 9 Sep. 2020, 17:00 AEST
 
 |             | Statistic
 | ---         | ---

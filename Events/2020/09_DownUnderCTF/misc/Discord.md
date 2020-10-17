@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # Discord (sanity-check, 10pt)
 
 _Solved on 18 Sep. 2020 (Live)._
@@ -7,7 +8,7 @@ _Solved on 18 Sep. 2020 (Live)._
 > JOIN OUR DISCORD!
 >
 > ![Image of a racoon, with an evil grin; meme top text: YES, YES; meme bottom text: JOIN
-> US](../.assets/misc/Discord-0.jpg)
+> US](../../../../.assets/Events/2020/09_DownUnderCTF/misc/Discord-0.jpg)
 
 ## Solution
 

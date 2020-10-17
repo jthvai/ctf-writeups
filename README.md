@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # CTF Writeups
 
 This repository contains minimal-frills walkthrough-style writeups of CTF challenges.

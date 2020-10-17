@@ -1,4 +1,22 @@
 .
+├── .assets
+│   ├── ASD-ANU_Co-Lab_CTF_Coaching
+│   │   ├── 2020-09-23_ANU_Networking_Challenges-0.png
+│   │   └── 2020-09-23_ANU_Networking_Challenges-1.png
+│   └── Events
+│       └── 2020
+│           ├── 09_ASD-ANU_Co-Lab_CTF
+│           │   └── Network_Analysis
+│           │       ├── Name_that_Machine-0.png
+│           │       └── Name_that_Machine-1.png
+│           └── 09_DownUnderCTF
+│               ├── misc
+│               │   ├── Addition-0.png
+│               │   └── Discord-0.jpg
+│               └── osint
+│                   ├── Bad_man-0.png
+│                   ├── Bad_man-1.png
+│                   └── Bad_man-2.png
 ├── ASD-ANU_Co-Lab_CTF_Coaching
 │   └── 2020-09-23_ANU_Networking_Challenges.md
 ├── Events
@@ -31,4 +49,4 @@
         └── 2020-10_0x42
             └── Crack_Me_Level_0.md
 
-16 directories, 15 files
+25 directories, 24 files

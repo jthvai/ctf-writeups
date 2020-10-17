@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # In a pickle (easy, 200pt)
 
 _Solved on 19 Sep. 2020 (Live)._

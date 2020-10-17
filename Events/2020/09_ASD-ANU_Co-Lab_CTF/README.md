@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # ASD-ANU Co-Lab CTF 2020
 
 _([Website](https://cecs.anu.edu.au/events/capture-flag-co-lab"))_

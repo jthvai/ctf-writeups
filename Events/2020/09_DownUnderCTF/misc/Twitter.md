@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # Twitter (sanity-check, 10pt)
 
 _Solved on 18 Sep. 2020 (Live)._

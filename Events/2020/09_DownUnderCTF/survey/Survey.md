@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # Survey (10pt)
 
 _Solved on 20 Sep. 2020 (Live)._

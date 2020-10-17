@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # Crack Me Level 0 (beginner)
 
 _Solved on 13 Oct. 2020 (Live)._

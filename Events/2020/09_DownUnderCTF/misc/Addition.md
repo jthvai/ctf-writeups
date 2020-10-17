@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # Addition (easy, 200pt)
 
 _Solved on 19 Sep. 2020 (Live)._
@@ -18,7 +19,7 @@ Visit the challenge site.
 
 ![Screenshot of the challenge site; "My mega calculator can do any calculations python will let you do. Use * + - / % to
 do complex problems if you want.", "Calculation", followed by an input box and a button labelled "Calculate for me", and
-"Enter data and the results will be shown here!"](../.assets/misc/Addition-0.png)
+"Enter data and the results will be shown here!"](../../../../.assets/Events/2020/09_DownUnderCTF/misc/Addition-0.png)
 
 ..._any_ calculations that Python will let us do, huh? Determine whether it is a Python REPL. (For brevity, commands
 prefixed with `>>>` are entered into the text box, and lines not prefixed are the output.)

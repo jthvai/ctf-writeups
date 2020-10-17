@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # DownUnderCTF 2020
 
 _([Website](https://downunderctf.com/), [CTFTime](https://ctftime.org/event/1084), [Event Statistics](https://downunderctf.com/blog/2020/ctf-statistics/))_

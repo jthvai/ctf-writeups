@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-NC-ND-4.0 -->
 # Fun with Primes (5pt)
 
 _Solved on 9 Sep. 2020 (Live)._
